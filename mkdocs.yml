@@ -7,5 +7,4 @@ repo_url: 'https://github.com/Satriaana/Documents'
 nav:
     - Home: index.md
 theme:
-  name: 'solar'
-  nav_style: dark
+  name: 'mkdocs'
