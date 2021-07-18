@@ -22,19 +22,3 @@ nav:
 extra_css:
     - css/extra.css
 
-markdown_extensions:
-    - toc:
-        permalink: 
-    - admonition
-    - attr_list
-    - def_list
- 
-copyright: Copyright &copy; 2021 <a href="https://satriaana.org">Team Satriaana</a>, Maintained by the <a href="/about/release-notes/#maintenance-team">Team Satriaana</a>.
-
-plugins:
-    - search
-    - redirects:
-        redirect_maps:
-            user-guide/plugins.md: dev-guide/plugins.md
-            user-guide/custom-themes.md: dev-guide/themes.md
-            user-guide/styling-your-docs.md: user-guide/choosing-your-theme.md
