@@ -7,4 +7,5 @@ repo_url: 'https://github.com/Satriaana/Documents'
 nav:
     - Home: index.md
 theme:
-  name: 'readthedocs'
+  name: 'solar'
+  nav_style: dark
