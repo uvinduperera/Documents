@@ -8,22 +8,25 @@ nav:
     - Home: index.md
     - Teams:
         - Blog:
+          - Roadmap: Blog/roadmap.md
+        
         
         - Community Buildup:
+            - Roadmap: Community Buildup/roadmap.md
         
         - Designing: 
+            - Roadmap: Designing/roadmap.md
         
         - Developing:
+            - Roadmap: Developing/roadmap.md
+        
         
         - DevOps: 
            - Roadmap: DevOps/roadmap.md
            
         - Project Management: 
-        
-    - Projects:
-      - Teseca:
-      
-      - MailMan:
+            - Roadmap: Project Management/roadmap.md
+
     
 theme:
   name: 'mkdocs'
