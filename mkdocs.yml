@@ -1,24 +1,10 @@
-site_name: Satriaana
-site_url: https://satriaana.github.io/Documents/
-site_description: Project documentation with Markdown.
-site_author: Team Satriaana
-
-repo_url: https://github.com/Satriaana/Documents/
-edit_uri: ""
-
-theme:
-    name: mkdocs
-    locale: en
-    analytics: {gtag: 'G-274394082'}
-    highlightjs: true
-    hljs_languages:
-        - yaml
-        - django
-
+site_name: Satriaana Documents
+site_description: 'Satriaana Documents'
+site_author: 'Team Satriaana'
+docs_dir: docs/
+repo_name: 'Satriaana/Documents'
+repo_url: 'https://github.com/Satriaana/Documents'
 nav:
     - Home: index.md
-
-
-extra_css:
-    - css/extra.css
-
+theme:
+  name: 'material'
