@@ -19,6 +19,11 @@ nav:
            - Roadmap: DevOps/roadmap.md
            
         - Project Management: 
+        
+    - Projects:
+      - Teseca:
+      
+      - MailMan:
     
 theme:
   name: 'mkdocs'
