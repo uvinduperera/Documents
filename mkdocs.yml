@@ -46,10 +46,7 @@ markdown_extensions:
     - admonition
     - attr_list
     - def_list
-    - mdx_gh_links:
-        user: mkdocs
-        repo: mkdocs
-
+ 
 copyright: Copyright &copy; 2021 <a href="https://satriaana.org">Team Satriaana</a>, Maintained by the <a href="/about/release-notes/#maintenance-team">Team Satriaana</a>.
 
 plugins:
