@@ -7,9 +7,18 @@ repo_url: 'https://github.com/Satriaana/Documents'
 nav:
     - Home: index.md
     - Teams:
+        - Blog:
+        
+        - Community Buildup:
+        
+        - Designing: 
+        
+        - Developing:
+        
         - DevOps: 
            - Roadmap: DevOps/roadmap.md
-    
+           
+        - Project Management: 
     
 theme:
   name: 'mkdocs'
