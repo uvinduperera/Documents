@@ -7,4 +7,4 @@ repo_url: 'https://github.com/Satriaana/Documents'
 nav:
     - Home: index.md
 theme:
-  name: 'rtd-dropdown'
+  name: 'readthedocs'
