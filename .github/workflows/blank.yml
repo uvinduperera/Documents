@@ -12,6 +12,10 @@ jobs:
     steps:
       - name: Checkout master
         uses: actions/checkout@v1
+        
+      - name: pip
+        run: |
+         pip install mkdocs-bootswatch
 
       - name: Deploy docs
         uses: mhausenblas/mkdocs-deploy-gh-pages@master
