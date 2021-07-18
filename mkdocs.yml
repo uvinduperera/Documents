@@ -7,26 +7,29 @@ repo_url: 'https://github.com/Satriaana/Documents'
 nav:
     - Home: index.md
     - Teams:
-        - Blog:
-            - Roadmap: Blog/roadmap.md
-        
-        
-        - Community Buildup:
-            - Roadmap: Community Buildup/roadmap.md
-        
-        - Designing: 
-            - Roadmap: Designing/roadmap.md
-        
-        - Developing:
-            - Roadmap: Developing/roadmap.md
-        
-        
-        - DevOps: 
-           - Roadmap: DevOps/roadmap.md
-           
-        - Project Management: 
-            - Roadmap: Project Management/roadmap.md
+      - Blog:
+        - Roadmap: Teams/Blog/roadmap.md
 
-    
+      - Community Buildup:
+        - Roadmap: Teams/Community Buildup/roadmap.md
+
+      - Designing:
+        - Roadmap: Teams/Designing/roadmap.md
+
+      - Developing:
+        - Roadmap: Teams/Developing/roadmap.md
+
+
+      - DevOps:
+        - Roadmap: Teams/DevOps/roadmap.md
+
+      - Project Management:
+        - Roadmap: Teams/Project Management/roadmap.md
+
+    - Projects:
+      - Teseca:
+        -Roadmap: Projects/Teseca/index.md
+
+
 theme:
   name: 'mkdocs'
